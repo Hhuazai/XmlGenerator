@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/上1.png</file>
+        <file>image/上2.png</file>
+        <file>image/下1.png</file>
+        <file>image/下2.png</file>
+        <file>image/下右1.png</file>
+        <file>image/下右2.png</file>
+        <file>image/左上1.png</file>
+        <file>image/左上2.png</file>
+        <file>image/加号1.png</file>
+        <file>image/加号2.png</file>
+        <file>image/减号1.png</file>
+        <file>image/减号2.png</file>
+        <file>image/添加子项1.png</file>
+        <file>image/添加子项2.png</file>
+        <file>image/xml.png</file>
+    </qresource>
+</RCC>
